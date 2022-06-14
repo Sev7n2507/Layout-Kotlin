@@ -27,7 +27,6 @@
             android:layout_height="wrap_content"
             android:layout_above="@+id/twitter"
             android:backgroundTint="#F44336"
-            android:gravity="center"
             android:paddingLeft="20dp"
             android:paddingRight="20dp"
             android:paddingTop="18dp"
